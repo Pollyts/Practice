@@ -1,0 +1,7 @@
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_10\Solution_10\bin\Debug\Solution_10.exe.config
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_10\Solution_10\bin\Debug\Solution_10.exe
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_10\Solution_10\bin\Debug\Solution_10.pdb
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_10\Solution_10\obj\Debug\Solution_10.csprojResolveAssemblyReference.cache
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_10\Solution_10\obj\Debug\Solution_10.csproj.CoreCompileInputs.cache
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_10\Solution_10\obj\Debug\Solution_10.exe
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_10\Solution_10\obj\Debug\Solution_10.pdb

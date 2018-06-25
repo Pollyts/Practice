@@ -1,0 +1,7 @@
+C:\Users\DNS-PC\source\repos\Solution_12\Solution_12\bin\Debug\Solution_12.exe.config
+C:\Users\DNS-PC\source\repos\Solution_12\Solution_12\bin\Debug\Solution_12.exe
+C:\Users\DNS-PC\source\repos\Solution_12\Solution_12\bin\Debug\Solution_12.pdb
+C:\Users\DNS-PC\source\repos\Solution_12\Solution_12\obj\Debug\Solution_12.csprojResolveAssemblyReference.cache
+C:\Users\DNS-PC\source\repos\Solution_12\Solution_12\obj\Debug\Solution_12.csproj.CoreCompileInputs.cache
+C:\Users\DNS-PC\source\repos\Solution_12\Solution_12\obj\Debug\Solution_12.exe
+C:\Users\DNS-PC\source\repos\Solution_12\Solution_12\obj\Debug\Solution_12.pdb

@@ -1,0 +1,7 @@
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_5\Solution_5\bin\Debug\Solution_5.exe.config
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_5\Solution_5\bin\Debug\Solution_5.exe
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_5\Solution_5\bin\Debug\Solution_5.pdb
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_5\Solution_5\obj\Debug\Solution_5.csprojResolveAssemblyReference.cache
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_5\Solution_5\obj\Debug\Solution_5.csproj.CoreCompileInputs.cache
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_5\Solution_5\obj\Debug\Solution_5.exe
+C:\Users\DNS-PC\Desktop\Учебная практика\Solution_5\Solution_5\obj\Debug\Solution_5.pdb
